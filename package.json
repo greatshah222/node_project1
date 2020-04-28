@@ -1,0 +1,25 @@
+{
+  "name": "node_js_project",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon indefx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatshah222/node_project1.git"
+  },
+  "author": "Bishal Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatshah222/node_project1/issues"
+  },
+  "homepage": "https://github.com/greatshah222/node_project1#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
